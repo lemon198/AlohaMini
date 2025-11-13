@@ -23,13 +23,13 @@ On AlohaMini, the Host side consists of a PC workstation and leader arms. VR con
 | (optional) Bearing | 12×18×4 mm (ID × OD × W) — wheel axle bearing | 3 | — | Amazon | ¥6 | [tmall](https://detail.tmall.com/item.htm?id=824704356695) |
 | Bearing | 4×13×5 mm (ID × OD × W) — lift axis bearing | 8 | — | Amazon | ¥3 | [taobao](https://item.taobao.com/item.htm?id=565418362178) |
 | M2×12 Phillips screw | For camera mounts (OB_T_Camera_Mount.stl, OB_Top_Camera_Mount) | 12 | — | — | — | — |
-| M3×10 hex socket screw | For OB_Chassis_Side_Panel.stl | 12 | — | — | — | — |
+| M3×12 hex socket screw | Total 36 pcs (Servo Mount×24 ,Side Panel×12 ) | 36 | — | — | — | — |
 | M3×18 hex socket screw | For OB_Chassis_Wheel_Axle_Connector.stl | 12 | — | — | — | — |
 | M3×30 hex socket screw | For OB_T_Connector_Right/Left.stl | 8 | — | — | — | — |
 | M3 hex nut | For OB_T_Connector_Right/Left.stl | 8 | — | — | — | — |
 | M3x5x4 heat-set insert | Total 36 pcs (Servo Mount×24, Side Panel×12) | 36 | — | Amazon | ¥5 | [taobao](https://item.taobao.com/item.htm?id=809241671998) |
-| M4×10 hex socket screw | Total 20 pcs (Bearing Cover×12, Z-axis Servo Mount×8) | 20 | — | Amazon | — | — |
-| M4*6*5 heat-set insert | For OB_Chassis_Bearing_Cover.stl | 12 | — | Amazon | ¥4 | [taobao](https://item.taobao.com/item.htm?id=809241671998) |
+| M4×12 hex socket screw | Total 20 pcs (Bearing Cover×12, Z-axis Servo Mount×8) | 20 | — | Amazon | — | — |
+| M4x6x5 heat-set insert | For OB_Chassis_Bearing_Cover.stl | 12 | — | Amazon | ¥4 | [taobao](https://item.taobao.com/item.htm?id=809241671998) |
 | Adhesive | Double-sided tape / epoxy — cable retention & structural bonding | 1 | — | Amazon | ¥12 | [jd](https://item.jd.com/100141557259.html) |
 | Servo extension cable | SCS 3-pin, 90 cm | 2 | — | Amazon | ¥3 | [taobao](https://item.taobao.com/item.htm?id=616460581906) |
 | Battery | 12V Li-ion pack with 5521 barrel jack (male & female) | 1 | — | Amazon | ¥130 | [taobao](https://item.taobao.com/item.htm?id=890828103056) |

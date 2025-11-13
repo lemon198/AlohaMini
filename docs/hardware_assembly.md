@@ -41,7 +41,7 @@ Connector installation complete (if it's loose, tighten with screws or use epoxy
 Follow the servo order as shown in the image.
 <img src="./media/assembly/10.jpg" width="400">
 
-7. Secure the servos to the chassis plate using M3x10 screws.
+7. Secure the servos to the chassis plate using M3x14 screws.
 <img src="./media/assembly/11.jpg" width="400">
 
 8. Attach the omni wheels to the servo connector using M3x18 screws.
