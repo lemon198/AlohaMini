@@ -102,9 +102,7 @@ Remove the two screws from the camera back cover.
 <img src="./media/assembly/35.jpg" width="400">
 
 25. Install the Front camera using the same method as the Top camera.
-![Img](./FILES/assembly/img-20251112220359.jpg)
 Slide it into the slot. If there are any burrs on the printed part, file them down for a smooth fit.
-![Img](./FILES/assembly/img-20251112220617.jpg)
 
 26. Route the USB Type-C data cable and DC power cable through the hole on the rear side of the main post.
 <img src="./media/assembly/33.jpg" width="400">
@@ -137,5 +135,5 @@ For the assembly of Leader arms and Follower arms, please refer to the tutorial:
    <img src="./media/assembly/43.jpg" width="400">
 
 7. Assembly fully complete!
-   <img src="./media/alohamini_banner3.png" >
+   <img src="./media/alohamini_git.png" >
 
