@@ -17,7 +17,7 @@ On AlohaMini, the Host side consists of a PC workstation and leader arms. VR con
 
 | Item | Model / Notes | Qty | Unit Cost (US) | Buy (US) | Unit Cost (CN) | Buy (CN) |
 |------|---------------|-----|----------------|----------|----------------|----------|
-| Servo motor | Feetech / 12V 1/345 Gear(STS3215-C018)| 4 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-12V-1-345-STS3215-C018_1601637205886.html?spm=a2747.product_manager.0.0.348371d2qB6Lhq) | ¥110 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
+| Servo motor | Feetech / 12V 1/345 Gear(STS3215-C018)| 4 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | ¥110 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
 | Omni wheel | 4″ (≈100 mm) | 3 | $47 | [Amazon](https://www.amazon.com/Replacement-Plastic-Directional-Accessories-Platform/dp/B0F9W6QX5M/ref=sr_1_1?crid=RUB7HLFVFAW4&dib=eyJ2IjoiMSJ9.OEVluSHnKdSoUssYPqqvc9zDttA_kPqToxcIUPC9mVE.lDKJEFZ-n8SldCgHwC__Ikus8FGKxQcuN14cjtG5WHQ&dib_tag=se&keywords=Omni-Directional+Wheels+4&qid=1762964120&sprefix=omni-directional+wheels+4%2Caps%2C938&sr=8-1) | ¥135 | [pinduoduo](https://mobile.yangkeduo.com/goods.html?ps=kKWPC7xuzw) |
 | USB camera | 720p focal length 2.4 mm, 36×36 mm form factor | 3 | — | Amazon | ¥125 | [taobao](https://item.taobao.com/item.htm?id=666278411821) |
 | (optional) Bearing | 12×18×4 mm (ID × OD × W) — wheel axle bearing | 3 | — | Amazon | ¥6 | [tmall](https://detail.tmall.com/item.htm?id=824704356695) |
@@ -86,7 +86,7 @@ If you prefer the base to operate as an **independent host system** (Wi‑Fi, un
 ## Follower Arms
 | Item | Model / Notes | Qty | Unit Cost (US) | Buy (US) | Unit Cost (CN) | Buy (CN) |
 |------|---------------|-----|----------------|----------|----------------|----------|
-| Servo motor | Feetech / 12V 1/345 Gear(STS3215-C018) | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-12V-1-345-STS3215-C018_1601637205886.html?spm=a2747.product_manager.0.0.348371d2qB6Lhq) | ¥110 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
+| Servo motor | Feetech / 12V 1/345 Gear(STS3215-C018) | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM100-Servo-12V_1601292634404.html?spm=a2700.details.you_may_like.3.5ab1478e45kY42) | ¥110 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
 | Waveshare Bus Servo Controller | For connecting to the Raspberry Pi 5 | 2 | $13 | [Amazon](amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | ¥27 | [tmall](https://detail.tmall.com/item.htm?id=738817173460) |
 | USB camera | 720p focal length 3.8 mm, 36×36 mm form factor | 2 | — | Amazon | ¥103 | [taobao](https://item.taobao.com/item.htm?id=590682120464) |
 | 1-to-2 DC splitter cable | 30 cm, 5521 connector — for powering the arms | 1 | — | Amazon | ¥5 | [taobao](https://item.taobao.com/item.htm?id=594921965049) |
@@ -108,7 +108,7 @@ For detailed printing instructions, refer to the [SO-ARM100 project README](http
 
 | Item | Model / Notes | Qty | Unit Cost (US) | Buy (US) | Unit Cost (CN) | Buy (CN) |
 |------|---------------|-----|----------------|----------|----------------|----------|
-| Servo motor | Feetech / 7.4V 1/147 Gear(STS3215-C046) | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-12V-1-345-STS3215-C018_1601637205886.html?spm=a2747.product_manager.0.0.348371d2qB6Lhq) | ¥99 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
+| Servo motor | Feetech / 7.4V 1/147 Gear(STS3215-C046) | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-SO-ARM101-Servo-7_1601430760797.html?spm=a2747.product_manager.0.0.167371d25QeX3F) | ¥99 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
 | Waveshare Bus Servo Controller | For connecting to the PC | 2 | $13 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | ¥27 | [tmall](https://detail.tmall.com/item.htm?id=738817173460) |
 | Battery | 5V Li-ion pack (5600mAh) | 1 | — | Amazon | ¥30 | [taobao](https://item.taobao.com/item.htm?id=765749120668) |
 | 1-to-2 DC splitter cable | 70 cm — for powering the arms | 1 | — | Amazon | ¥5 | [taobao](https://item.taobao.com/item.htm?id=594921965049) |
