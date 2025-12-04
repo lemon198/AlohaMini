@@ -48,6 +48,9 @@ On AlohaMini, the Host side consists of a PC workstation and leader arms. VR con
 - O_Chassis_Dowel_Pin_12_37 x3
 - All other files x1
 
+Note：
+All other parts — including the lift mechanism — can be printed on a standard 3D printer. Only the chassis is special, as it requires a build volume of at least 385 × 345 × 64 mm. We recommend choosing a machine with around 400 × 360 × 100 mm or larger. Due to its size, the chassis may need to be outsourced for printing.
+
 ### What the Base Can Do
 
 With only the components above, you can assemble the **mobile base** and control:
